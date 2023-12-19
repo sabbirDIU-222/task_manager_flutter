@@ -1,16 +1,5 @@
 # task_manager
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2023-12-20 002738](https://github.com/sabbirDIU-222/task_manager_flutter/assets/57146729/57488d7c-9eec-48ec-a012-acfdf5b53565)
+![Screenshot 2023-12-20 002738](https://github.com/sabbirDIU-222/task_manager_flutter/assets/57146729/fca4adda-024b-47a0-9fc9-0db30be32d2b)
+![Screenshot 2023-12-20 002758](https://github.com/sabbirDIU-222/task_manager_flutter/assets/57146729/e34b31f2-d1e5-4be0-9ae1-feaf0591a510)
